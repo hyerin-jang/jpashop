@@ -1,0 +1,12 @@
+# Project exclude paths
+/target/
+
+### IntelliJ IDEA ###
+.gitignore
+.idea
+*.iws
+*.iml
+*.ipr
+
+pom.xml
+src/main/resources/META-INF/persistence.xml
